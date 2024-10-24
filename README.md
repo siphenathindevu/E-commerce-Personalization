@@ -4,7 +4,7 @@ To use the personalized recommendation system, open the Jupyter Notebook (Untitl
 
 Dataset
 
-The dataset used in this project can be found on Kaggle. It includes user interaction data relevant to e-commerce transactions. Ensure to review the data and adjust any preprocessing steps as needed.
+The dataset used in this project can be found on [Kaggle](https://www.kaggle.com/datasets/skillsmuggler/amazon-ratings). It includes user interaction data relevant to e-commerce transactions. Ensure to review the data and adjust any preprocessing steps as needed.
 
 Technologies Used
 
