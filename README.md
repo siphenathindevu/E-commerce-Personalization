@@ -28,9 +28,11 @@ Results of the evaluation can be found in the notebook, illustrating the effecti
 
 
 Contributing
+
 Contributions are welcome! If you have suggestions for improvements or want to contribute to this project, please open an issue or submit a pull request.
 
 Acknowledgements
+
 [Gupta R, 2021] for insights into predictive analytics.
 [George et al., 2023] for their work on sustainable marketing approaches.
 [Zhou & Hudin, 2024] for frameworks on advanced recommendation techniques.
